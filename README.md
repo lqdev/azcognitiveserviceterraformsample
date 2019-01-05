@@ -1,6 +1,6 @@
 # Azure Cognitive Service Terraform Sample
 
-This is a sample application that shows how to write a Terraform configuration script to provision a Computer Vision Cognitive Service resource in Azure. A more detailed walk-through is provided in this blog [post]().
+This is a sample application that shows how to write a Terraform configuration script to provision a Computer Vision Cognitive Service resource in Azure. A more detailed walk-through is provided in this blog [post](http://luisquintanilla.me/2019/01/05/automate-machine-learning-service-provisioning-azure-terraform/).
 
 ## Requirements
 
